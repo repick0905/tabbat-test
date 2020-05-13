@@ -8,7 +8,12 @@
 
 <script>
 export default {
-  name: "Category"
+  name: "Category",
+  data() {
+    return {
+      
+    }
+  },
 };
 </script>
 
